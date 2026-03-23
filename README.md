@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👨‍💻 Java Student<br><br>⚙️ Backend Developer in Progress<br><br>📚 Learning APIs & Spring Boot<br><br>🗄️ MySQL Enthusiast<br><br>🌐 Basic Frontend (HTML, CSS, JS)<br><br>🚀 Junior Developer Aspirant<br><br>🎯 Focused on Backend Growth</p>
+<p align="left">👨‍💻 Java Student<br><br>⚙️ Backend Developer in Progress<br><br>📚 Learning APIs & Spring Boot<br><br>🗄️ MySQL Enthusiast<br><br>🚀 Junior Developer Aspirant<br><br>🎯 Focused on Backend Growth</p>
 
 ###
 
