@@ -2,7 +2,25 @@
 
 ###
 
-<p align="left">👨‍💻 Java Student<br><br>⚙️ Backend Developer in Progress<br><br>📚 Learning APIs & Spring Boot<br><br>🗄️ MySQL Enthusiast<br><br>🚀 Junior Developer Aspirant<br><br>🎯 Focused on Backend Growth</p>
+<p align="left">👨‍💻 Java Student<br><br>⚙️ Backend Developer in Progress<br><br>📚 Learning APIs & Spring Boot<br>
+
+
+
+<h3 align="left">Social Media</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/renan-loes-800b48278" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:renanloes8@gmail.com.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
 
 ###
 
@@ -19,31 +37,3 @@
   <img width="12" />
 </div>
 
-###
-
-<h2 align="center">Stats</h2>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Renanloes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Renanloes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" height="700" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Renanloes&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<h3 align="left">Social Media</h3>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/renan-loes-800b48278" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:renanloes8@gmail.com.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
