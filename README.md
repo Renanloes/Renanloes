@@ -1,10 +1,20 @@
-<h1 align="center">About me</h1>
+<h1 align="center">About Me</h1>
 
 ###
 
-<p align="left">👨‍💻 Java Student<br><br>⚙️ Backend Developer in Progress<br><br>📚 Learning APIs & Spring Boot<br>
+<p align="left">
+⚔️ Java-focused back-end developer<br><br>
 
+🧱 Building systems with emphasis on structure, clarity and long-term maintainability<br><br>
 
+📡 Developing APIs and advancing into the Spring ecosystem<br><br>
+
+🗄️ Working with MySQL, focusing on data modeling and consistency<br><br>
+
+🔥 Junior level — but sharpening skills with intention and discipline<br><br>
+
+🎯 Goal: become reliable in real-world backend environments
+</p>
 
 <h3 align="left">Social Media</h3>
 
