@@ -1,3 +1,16 @@
+<h1 align="center">Welcome</h1>
+
+###
+
+<p align="center">
+Welcome to my profile.<br><br>
+
+Take a moment, look around —  
+this is where I build, test and evolve my backend skills.
+</p>
+
+###
+
 <h1 align="center">About Me</h1>
 
 ###
